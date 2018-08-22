@@ -1,1 +1,1 @@
-# MePOSdotNETSDK
+# MePOS .NET SDK
